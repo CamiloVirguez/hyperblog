@@ -3,6 +3,7 @@ Esta es la historia de Camilo Virguez
 Camilo tiene 21 años y nació en Colombia,
 mas especificamente en Soacha
 
+<<<<<<< HEAD
 Experimento 1
 
 Experimento 2
@@ -10,5 +11,10 @@ Experimento 2
 Master 1
 
 Master 2
+=======
+Anita tiene 4 horas de creada,
+ella nacio en Internet,
+y hace su trabajo desde una maquina virtual.
+>>>>>>> 2458c1624cfec044682956a9740cf0607579e966
 
 Hoy hablaremos de su historia.
